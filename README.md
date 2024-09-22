@@ -25,4 +25,4 @@ My job is to build your website so that it is functional and user-friendly but a
 
 ## Contact
 
-If you have any questions or need help, feel free to contact me at [marionwkesa@gmail.com](mailto:marionwkesa@gmail.com).
+If you have any questions or need help, feel free to [contact me](mailto:marionwkesa@gmail.com).
